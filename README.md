@@ -16,11 +16,11 @@ You will need an openai API key for AI features to work.
 # SET-UP
      
 Linking/Pairing:
-https://replit.com/@hamingtonmusyoki/Pairing-A-one"
+https://replit.com/@hamingtonmusyoki/Pairing-/-_-.
 
 ## ` Pair On reptil`
        
-<h2 align="left">  <a href="https://replit.com/@hamingtonmusyoki/Pairing-A-one"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@hamingtonmusyoki/Pairing/-_-."><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
@@ -29,7 +29,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Hamingtonmu
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Hamingtonmusyoki/A-one/fork)
+- Fork this repo by tapping  [here](https://github.com/Hamingtonmusyoki/-_-./fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
