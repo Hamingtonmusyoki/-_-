@@ -1,4 +1,4 @@
-# DREADED-BOT
+# 𝐀_𝐎𝐍𝐄
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
@@ -19,16 +19,16 @@ Linking/Pairing:
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="https://replit.com/@botdreaded/Pairing-Dreaded"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@botA-one/Pairing-A-one"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
-Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusmokaya/DREADED-PAIRING)
+Alternatively, pair locally using the repo [Here](https://github.com/Hamingtonmusyoki/A-one-PAIRING)
 
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/fork)
+- Fork this repo by tapping  [here](https://github.com/Hamingtonmusyoki/A-one/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -67,13 +67,13 @@ $ node index.js
 
 # Credits
 
-Thanks to...
+Thanks to... '〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄'
 
 <div align="center">
   
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
+| [![Hamingtonmusyoki](https://github.com/hamingtonmusyoki.png?lenght=50width=50)](https://github.com/Hamingtonmusyoki)|
 |----|
-* [`Fortunatus mokaya`](https://github.com/Fortunatusmokaya) ***Author, Owner***
+* [`Hamingtonmusyoki`](https://github.com/hamingtonmusyoki) ***Author, Owner***
 
 * [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
 * [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
@@ -83,14 +83,15 @@ Thanks to...
 
 ---
 
-Incase of any issues, contact me  [here](https://wa.me/+254114018035) via WhatsApp or [here](mokayafortunatus@gmail.com) via Email.
+Incase of any issues, contact me  [here](https://wa.me/+254799384249) via WhatsApp or [here](Hamingtonmusyokiofficial@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
 
 ## License
 
-[MIT License](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/blob/main/LICENSE)
+[MIT License](https://github.com/Hamingtonmusyoki/A-one/blob/main/LICENSE)
 
-Copyright (c) 2023 Dreaded-GPT-AI
+Copyright (c) 2024 𓄂𝐀_𝐎𝐍𝐄𓄂
+
 
