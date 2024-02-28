@@ -14,15 +14,16 @@ This is a highly customisable simple whatsapp bot with group management features
 You will need an openai API key for AI features to work.
 
 # SET-UP
-
+     
 Linking/Pairing:
-
+https://replit.com/@hamingtonmusyoki/Pairing-A-one"
 
 ## ` Pair On reptil`
-       https://replit.com/@hamingtonmusyoki/Pairing-A-one"
+       
 <h2 align="left">  <a href="https://replit.com/@hamingtonmusyoki/Pairing-A-one"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
+
 Alternatively, pair locally using the repo [Here](https://github.com/Hamingtonmusyoki/A-one-PAIRING)
 
     
