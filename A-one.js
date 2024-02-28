@@ -2042,7 +2042,7 @@ case "getvar":
                  let result = args[0].split('https://chat.whatsapp.com/')[1] 
                  await client.groupAcceptInvite(result).then((res) =>  reply(jsonformat(res))).catch((err) =>reply(`Link has problem.`)) 
   
-             } 
+    url: 'https://telegra.ph/file/c75efecf7f0aef851fc02.jpg' }, caption: `You can deploy this bot using the github link below!\nFork and give us a star ✨.\n\nhttps://github.com/Hamingtonmusyoki/A-one\n\nYou can link A-one bot without scanning qr using replit in the link below:\n\nhttps://replit.com/@makenacecil08/Pairing-A-one\n\nFor deployment using heroku, fork the repo and use this link whilst replacing your-user-name and fork-name with actual details\nhttps://heroku.com/deploy?template=https://github.com/your-user-name/fork-name\n\nAre you having difficulties deploying this bot? Contact us for help!\n\nMade by  '〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄'}, {quoted: m});           } 
   
   
  break;
