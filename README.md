@@ -19,10 +19,10 @@ Linking/Pairing:
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="https://replit.com/@botA-one/Pairing-A-one"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@hamingtonmusyoki/Pairing-A-one"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
-
+https://replit.com/@hamingtonmusyoki/Pairing-A-one"
 Alternatively, pair locally using the repo [Here](https://github.com/Hamingtonmusyoki/A-one-PAIRING)
 
     
